@@ -1,6 +1,16 @@
-<<<<<<< HEAD
-# calculator
-test
-=======
-# calculator-
->>>>>>> 48d07a148f3c6e9ae96717420f0b2d8d67f5b844
+# Calculator
+
+This is a simple calculator implemented in Python. It allows basic arithmetic operations like addition, subtraction, multiplication, and division.
+
+## Features
+- Add two numbers
+- Subtract two numbers
+- Multiply two numbers
+- Divide two numbers (with error handling for division by zero)
+
+## Installation
+
+1. Make sure you have Python installed on your computer.
+2. Clone this repository:
+   ```bash
+   git clone https://github.com/yki203/calculator.git
